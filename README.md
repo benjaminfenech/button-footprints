@@ -8,13 +8,17 @@ Game Boy Color
 
 ### Importing files  
 
-**If importing the whole library:**  
+If importing the whole library:  
 
-Open KiCad > Open Footprint Editor > File > Add Library... > Global, OK > Select the downloaded .pretty folder.  
+ - Open KiCad > Open Footprint Editor > File > Add Library... > Global, OK > Select the downloaded .pretty folder.  
 
-**If importing individual footprints:**  
+If importing individual footprints:  
+
 Create a library if you haven't already:  
-Open KiCad > Open Footprint Editor > File > New Library... > Global, OK > Select desired directory and save the library  
+
+ - Open KiCad > Open Footprint Editor > File > New Library... > Global, OK > Select desired directory and save the library  
+
 Import footprint:  
-File > Import > Footprint... > Select the footprint > Save the file and select the created library.  
+
+ - File > Import > Footprint... > Select the footprint > Save the file and select the created library.  
 
