@@ -1,10 +1,14 @@
 # Button-Footprints  
 Various PCB footprints for silicone/carbon dome buttons in KiCad mod format.  
 
-### Progress  
+### Measurements  
 
-Game Boy Color  
- - Start/Select
+For all measurements I'm using standard digital calipers to measure the pads on their original boards.   
+
+GBC Start/Select:  
+ - Individual square pads are 1.75 x 1.75mm  
+ - Distance of 0.35mm between each square pad  
+ - Distance of 0.65mm between 2x2 sets of pads  
 
 ### Importing files  
 
